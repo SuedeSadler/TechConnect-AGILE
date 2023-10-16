@@ -1,0 +1,21 @@
+.col img{
+    width: 25vw;
+    height: 15vw;
+}
+.col-sm-4 img{
+    width: 25vw;
+    height: 15vw;
+}
+
+.advert img{
+    width: 80vw;
+    height: 20vw;
+}
+
+#shop{
+    width: 80%;
+}
+
+.Logo{
+    width: 3%;
+}
